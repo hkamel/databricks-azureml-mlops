@@ -12,7 +12,6 @@ If you want to run this example in Azure DevOps, you need to prepare you envirom
 
 This example uses Azure DevOps as an CI/CD toolset, as well as Microsoft Azure services to host the trained Machine Learning Model.
 
-* At the time of creating this tutorial, GitHub Actions were still beta. If you wan't to try this new feature, you have to [Sign up for the beta](https://github.com/features/actions) first.
 
 ### Azure Databricks Workspace
 
