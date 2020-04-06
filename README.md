@@ -6,7 +6,7 @@ The DevOps Pipelines are defined using the YAML file [azure-pipelines.yml](./azu
 
 ## Using This Sample Project
 
-If you want to run this example in Azure DevOps, you need to prepare you enviroment with the following steps.
+If you want to run this example in Azure DevOps, you need to prepare you environment with the following steps.
 
 ## Required Accounts And Resources
 
@@ -15,7 +15,7 @@ This example uses Azure DevOps as an CI/CD toolset, as well as Microsoft Azure s
 
 ### Azure Databricks Workspace
 
-In your Azure subsciption, you need to [create an Azure Databricks workspace](https://docs.azuredatabricks.net/getting-started/try-databricks.html#step-2-create-a-databricks-workspace) to get started.
+In your Azure subscription, you need to [create an Azure Databricks workspace](https://docs.azuredatabricks.net/getting-started/try-databricks.html#step-2-create-a-databricks-workspace) to get started.
 
 > NOTE: I recommend to place the Azure Databricks Workspace in a new Resource Group, to be able to clean everything up more easily afterwards.
 
